@@ -4,6 +4,7 @@ import pandas as pd
 # import generate_data # to powodowało, że za każdym razem dane generowały się od początku
 
 Base.metadata.create_all(engine)
+session = Session()
 
 # csv_file = generate_data.filename # to powodowało, że za każdym razem dane generowały się od początku
 csv_file = "animal_data_headers.csv"
