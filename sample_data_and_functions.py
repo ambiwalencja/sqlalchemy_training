@@ -75,3 +75,11 @@ def generate_random_person():
     return [name, sex, height, hobby]
 
 # people_columns = 'id,name,sex, height, hobby'
+
+plant_species = plant_species = ["Rose", "Sunflower", "Tulip", "Daisy", "Lily", "Cactus", 
+        "Fern", "Palm Tree", "Maple Tree", "Oak Tree", "Pine Tree", "Bamboo", "Cherry Blossom", 
+        "Violet", "Hydrangea", "Daffodil", "Carnation", "Lavender", "Orchid", "Tulip", "Azalea", 
+        "Hibiscus", "Moss", "Iris", "Dandelion", "Poinsettia", "Forget-Me-Not", "Poppy", 
+        "Jasmine", "Mint", "Thyme", "Basil", "Sage", "Lavender", "Cilantro", "Rosemary",
+          "Parsley", "Lemon Balm", "Marigold", "Petunia", "Zinnia", "Snapdragon", 
+          "Chrysanthemum", "Aloe Vera", "Eucalyptus", "Chia", "Lobelia", "Marjoram"]
